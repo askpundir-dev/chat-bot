@@ -30,10 +30,10 @@ This project demonstrates dynamic message handling, responsive UI, and smooth us
 ## 📸 Screenshots
 
 ## Main Interphase
-<img src="screenshots/main-interface.png" alt="Main Interphase"/>
+<img src="screenshots/main-interface.png" alt="Main Interphase" width="600"/>
 
 ## Chatting Interphase
-<img src="screenshots/chatting-interphase.png" alt="Chatting Interphase">
+<img src="screenshots/chatting-interphase.png" alt="Chatting Interphase" width="600"/>
 
 
 
