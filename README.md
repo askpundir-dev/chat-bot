@@ -34,7 +34,7 @@ This project demonstrates dynamic message handling, responsive UI, and smooth us
 
 ## Chatting Interphase
 <img src="screenshots/chatting-interphase.png" alt="Chatting Interphase">
----
+
 
 
 
