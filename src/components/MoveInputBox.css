@@ -3,7 +3,7 @@
   text-align: center;
   color: rgb(25, 135, 84);
   text-decoration: underline;
-  margin-bottom: 1rem;
+  margin-bottom: 0.2rem;
 }
 .move-input-box:active {
   color: red;
